@@ -1,24 +1,25 @@
 {
-  "name": "mongoose-title-case",
-  "version": "0.0.3",
+  "name": "mongoose-titlecase",
+  "version": "1.0.0",
   "description": "Mongoose.js plugin for titlizing & trimming model paths",
-  "main": "mongoose-title-case.js",
+  "main": "mongoose-titlecase.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/james1x0/mongoose-title-case"
+    "url": "git+https://github.com/jezguitarist30/mongoose-title-case.git"
   },
   "keywords": [
     "mongoose",
     "cleanup",
     "models",
-    "data"
+    "data",
+    "titlecase"
   ],
-  "author": "James Collins",
+  "author": "Jez Reel Maghuyop",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/james1x0/mongoose-title-case/issues"
+    "url": "https://github.com/jezguitarist30/mongoose-title-case/issues"
   },
-  "homepage": "https://github.com/james1x0/mongoose-title-case",
+  "homepage": "https://github.com/jezguitarist30/mongoose-title-case#readme",
   "dependencies": {
     "change-case": "^2.3.1"
   }
