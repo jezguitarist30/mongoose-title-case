@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-titlecase",
+  "name": "plugin-mongoose-titlecase",
   "version": "1.0.0",
   "description": "Mongoose.js plugin for titlizing & trimming model paths",
   "main": "mongoose-titlecase.js",

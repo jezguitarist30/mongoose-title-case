@@ -8,7 +8,7 @@ A mongoose.js plugin for titlizing & trimming schemas.
 
 ### Installation
 ```
-$ npm install mongoose-titlecase --save
+$ npm install plugin-mongoose-titlecase --save
 ```
 
 ### Usage
